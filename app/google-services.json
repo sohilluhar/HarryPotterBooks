@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "773057277848",
+    "firebase_url": "https://wizardbook1.firebaseio.com",
+    "project_id": "wizardbook1",
+    "storage_bucket": "wizardbook1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773057277848:android:3c66c20f69cb6047",
+        "android_client_info": {
+          "package_name": "luhar.sohil.wizardbooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773057277848-2kkqsij1s9dcajmvd485kvlc7jsc8rk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuOVChr4lSmeakU_Lcfbx46XM4UVThu2g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
